@@ -1,2 +1,2 @@
 # deepwise
-deepwise_code
+tree -| deepwise_code
